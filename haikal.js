@@ -4324,7 +4324,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `◎ Owner : ${botname}
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 *NOTE*
 🌷
-contact me Wa.me/628951410332
+contact me Wa.me/6289514100332
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 Base Script
 ©Haikal`, contextInfo:{"externalAdReply": {"title": `SC ZENU AIZAK`,"body": `Selamat ${salam} kak ${pushname}`,
